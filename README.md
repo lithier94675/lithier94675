@@ -1,6 +1,8 @@
 # Hello,
 
-I am Lithier, a web developer. Right now I am studying in a seconadry school. I rellay like coding with TypeScript and Python.
+I am Lithier, a web developer. Right now I am studying in a secondary school. I really like coding with JavaScript and C/C++.
+
+<!-- Hope Geometry Dash 2.2 will be out soon. -->
 
 __Pronouns__ He/ him
 
@@ -20,14 +22,13 @@ __Email__ <lithier94675@gmail.com>
 
 ## I am interested in...
 
-- [Friday Night Funkin'](https://google.com/search?q=Friday%20Night%20Funkin%27)
-- Arcade games
+- [Geometry Dash](https://robtopgames.com)
 - Writing music sheets
 - Coding
 
 ## I like programming languages, such as...
 
-- [Python](https://python.org) (with tkinter, [pygame](https://pygame.org), and so on)
+- C/C++
 - JavaScript (with HTML and CSS)
 - Shell script
 
