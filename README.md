@@ -19,6 +19,8 @@ __Email__ <lithier94675@gmail.com>
 - [MuseScore](https://musescore.com/user/40423489)
 - [YouTube](https://youtube.com/@lithier94675)
 - Geometry Dash
+- [Twitter (X)](https://twitter.com/lithier94675)
+- Fruit Ninja 2
 
 ## I am interested in...
 
@@ -31,9 +33,3 @@ __Email__ <lithier94675@gmail.com>
 - C/C++
 - JavaScript (with HTML and CSS)
 - Shell script
-
-## My favorite quote is...
-
-> _No pain, no gain._
->
-> -- Mulpan
