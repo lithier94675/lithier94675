@@ -2,8 +2,6 @@
 
 I am Lithier, a web developer. Right now I am studying in a secondary school. I really like coding with JavaScript and C/C++.
 
-<!-- Hope Geometry Dash 2.2 will be out soon. -->
-
 __Pronouns__ He/ him
 
 __Pronunciation__ /'lɪθɪər/
@@ -11,8 +9,6 @@ __Pronunciation__ /'lɪθɪər/
 __Birthday__ December 17th
 
 __Zodiac__ Sagittarius
-
-__Email__ <lithier94675@gmail.com>
 
 ## I am working on...
 
