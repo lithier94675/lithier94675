@@ -16,7 +16,7 @@ __Zodiac__ Sagittarius
 - [YouTube](https://youtube.com/@lithier94675)
 - Geometry Dash
 - [Twitter (X)](https://twitter.com/lithier94675)
-- Fruit Ninja 2
+- [SoundCloud](https://soundcloud.com/lithier94675)
 
 ## I am interested in...
 
