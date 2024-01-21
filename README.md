@@ -16,6 +16,7 @@ __Zodiac__ Sagittarius
 - [YouTube](https://youtube.com/@lithier94675)
 - [Geometry Dash](https://gdbrowser.com/u/lithier94675)
 - [SoundCloud](https://soundcloud.com/lithier94675)
+- [osu!](https://osu.ppy.sh/users/34649968)
 
 ## I am interested in...
 
