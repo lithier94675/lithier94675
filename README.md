@@ -14,13 +14,12 @@ __Zodiac__ Sagittarius
 
 - [MuseScore](https://musescore.com/user/40423489)
 - [YouTube](https://youtube.com/@lithier94675)
-- Geometry Dash
-- [Twitter (X)](https://twitter.com/lithier94675)
+- [Geometry Dash](https://gdbrowser.com/u/lithier94675)
 - [SoundCloud](https://soundcloud.com/lithier94675)
 
 ## I am interested in...
 
-- [Geometry Dash](https://robtopgames.com)
+- Playing [Geometry Dash](https://robtopgames.com) <!-- 2.2 is out -->
 - Writing music sheets
 - Coding
 
@@ -28,4 +27,4 @@ __Zodiac__ Sagittarius
 
 - C/C++
 - JavaScript (with HTML and CSS)
-- Shell script
+- Kotlin (I haven't tried it before)
