@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#########################################################
+# This is how I customize Bash to make it more beautiful.
+#########################################################
+
 # Initial order. Its elements must be defined as a function name.
 _ps1_order=(__cwd __time __repo __venv)
 
