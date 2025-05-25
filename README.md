@@ -1,31 +1,16 @@
 # Hello,
 
-I am Lithier, a web developer. Right now I am studying in a secondary school. I really like coding with JavaScript and C/C++.
+I am Lithier, a ~~web~~ desktop application developer. I haven't released anything meaningful before.
 
-__Pronouns__ He/ him
+## You can find me on...
 
-__Pronunciation__ /'lɪθɪər/
-
-__Birthday__ December 17th
-
-__Zodiac__ Sagittarius
-
-## I am working on...
-
-- [MuseScore](https://musescore.com/user/40423489)
+- ~~MuseScore~~
 - [YouTube](https://youtube.com/@lithier94675)
 - [Geometry Dash](https://gdbrowser.com/u/lithier94675)
-- [SoundCloud](https://soundcloud.com/lithier94675)
+- ~~SoundCloud~~ 
 - [osu!](https://osu.ppy.sh/users/34649968)
 
-## I am interested in...
-
-- Playing [Geometry Dash](https://robtopgames.com) <!-- 2.2 is out -->
-- Writing music sheets
-- Coding
-
-## I like programming languages, such as...
-
-- C/C++
-- JavaScript (with HTML and CSS)
-- Kotlin (I haven't tried it before)
+<details>
+  <summary>hello</summary>
+  <p>hi</p>
+</details>
