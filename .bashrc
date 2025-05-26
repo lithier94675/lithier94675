@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#########################################################
-# This is how I customize Bash to make it more beautiful.
+######################################################### 
+# This is how I customize Bash to make it more beautiful. 
 #########################################################
 
 # Initial order. Its elements must be defined as a function name.
@@ -14,17 +14,12 @@ _ps1_sep=""
 _ps1_top="┌─"
 _ps1_bottom="└─"
 
-# Colors. They must follow this format
-# \e[CODEm
-_ps1_reset_fg="\e[39m"
-_ps1_reset_bg="\e[49m"
-
 # Optional settings.
 _ps1_cwd_trim=4
 _ps1_time_fmt="%H:%M"
 
-# Optional elements. They must output text in this format
-# CURRENT_BG\]SEPARATOR\[RESET_FG\] TEXT \[CURRENT_FG
+# Optional elements. Their text output must follow this syntax
+# <bg>{seperator}{reset_fg} output_goes_here <fg>
 __cwd() {
 	local _ps1_cwd_fg="\e[97m"
 	local _ps1_cwd_bg="\e[40m"
@@ -84,6 +79,8 @@ __venv() {
 }
 
 # Script implementation. DO NOT edit this.
+readonly _ps1_reset_fg="\e[39m"
+readonly _ps1_reset_bg="\e[49m"
 [ ${#_ps1_order[@]} -eq 0 ] && _ps1_order=(__cwd __time __repo __venv)
 
 case $OSTYPE in
