@@ -1,6 +1,6 @@
 # Hello,
 
-I am **lithier94675**, a ~~web~~ desktop application developer. I haven't released anything meaningful before. Check for [.bashrc](./bashrc) to personalise your Bash prompt and improve it if you can.
+I am **lithier94675**, a ~~web~~ desktop application developer. I haven't released anything meaningful before. Check for [.bashrc](./.bashrc) to personalise your Bash prompt and improve it if you can.
 
 ## You can find me on...
 
