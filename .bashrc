@@ -111,7 +111,7 @@ case $OSTYPE in
 esac
 
 __update_prompt() {
-	PS1="\e]0;$(pwd | sed "s/^${HOME//\//\\/}/~/")\a\n$_ps1_top\[$_ps1_os_fg$_ps1_reset_bg\]$_ps1_left\[$_ps1_reset_fg$_ps1_os_bg\] \[$_ps1_os_col\]$_ps1_os_icon\[$_ps1_reset_fg\]  \u\[\e[90m\]@\H\[\e[39m\] \[$_ps1_os_fg$(for i in ${_ps1_order[@]} ; do eval $i 2>/dev/null ; done)$_ps1_reset_bg\]$_ps1_right\[$_ps1_reset_fg\]\[$(tput sgr0)\]\n$_ps1_bottom\[\e[90m\]\$\[\e[39m\] "
+	PS1="\e]0;$(pwd | sed "s/^${HOME//\//\\/}/~/")\a\n$_ps1_top\[$_ps1_os_fg$_ps1_reset_bg\]$_ps1_left\[$_ps1_reset_fg$_ps1_os_bg\] \[$_ps1_os_col\]$_ps1_os_icon\[$_ps1_reset_fg\]  \u\[\e[90m\]@\H\[\e[39m\] \[$_ps1_os_fg$(for i in ${_ps1_order[@]} ; do eval $i 2>/dev/null ; done)$_ps1_reset_bg\]$_ps1_right\[$_ps1_reset_fg\]\[\e[0m\]\n$_ps1_bottom\[\e[90m\]\$\[\e[39m\] "
 }
 
 PROMPT_COMMAND="__update_prompt"
