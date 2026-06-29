@@ -9,7 +9,7 @@ Hello, I am **Lithier**, a web/ desktop application developer. This website is w
 
 - Birthday: December 17<sup>th</sup>
 - Loves: ice-cream and riced themes on Linux
-- Hates: rubbish or nonsense contents on short video platforms
+- Hates: brainrot or nonsense contents on short video platforms
 
 ## You can find me on...
 
@@ -22,4 +22,4 @@ Hello, I am **Lithier**, a web/ desktop application developer. This website is w
 
 ## Things I have done so far
 
-- [Simplix](/jekyll-theme-simplix) - My first Jekyll theme
+- [Simplix](https://lithier94675.github.io/jekyll-theme-simplix) - My first Jekyll theme
