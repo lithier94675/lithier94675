@@ -1,7 +1,3 @@
----
-title: Welcome to my GitHub Page
-description: I make my own projects here
----
 
 Hello, I am **Lithier**, a web/ desktop application developer. This website is where I share my personal projects and many things.
 
